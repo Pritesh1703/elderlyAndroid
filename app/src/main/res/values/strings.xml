@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DBS</string>
+    <string name="action_settings">Profile</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="select_date">Select date of appointment</string>
+    <string name="comments">Comments</string>
+    <string name="new_appointment">New Appointment</string>
+    <string name="enter_acc_number">Enter account number</string>
+    <string name="profile">User Profile</string>
+</resources>
